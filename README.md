@@ -48,8 +48,14 @@ Each estimator is tested on synthetic data generated specifically for this study
 
 ## Acknowledgements
 
-I would like to express my profound gratitude to my supervisor, Dr. Olga Klopp, for her exceptional guidance throughout my internship. Her mentorship and steadfast support made this experience highly valuable. Her regular check-ins and insightful discussions greatly enhanced my understanding of the model and the research process, helping me navigate various challenges. Her patience and welcoming attitude were instrumental in fostering a productive learning environment.
-I also extend my sincere thanks to Dr. Adeline Fermanian and the Califrais team for allowing me access to their data, which provided invaluable experience with real-world data. Their guidance and responsiveness to my inquiries were immensely beneficial.
-Additionally, I am grateful to Dr. Andrea Simonetto, my tutor at ENSTA Paris, for his support, advice, and guidance, which were essential for the progress of my internship.
+I would like to express my profound gratitude to my supervisor, Dr. Olga Klopp, for her exceptional guidance throughout my internship. Her mentorship and steadfast support made this experience highly valuable. Her regular check-ins and insightful discussions greatly enhanced my understanding of the model and the research process, helping me navigate various challenges. Her patience and welcoming attitude were instrumental in fostering a productive learning environment.  
+  
+
+I also extend my sincere thanks to Dr. Adeline Fermanian and the Califrais team for allowing me access to their data, which provided invaluable experience with real-world data. Their guidance and responsiveness to my inquiries were immensely beneficial.  
+  
+
+Additionally, I am grateful to Dr. Andrea Simonetto, my tutor at ENSTA Paris, for his support, advice, and guidance, which were essential for the progress of my internship.  
+  
+
 The combined contributions and support from these esteemed individuals have greatly enriched my learning experience, making this internship both rewarding and enlightening.
 
